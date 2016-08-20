@@ -1,0 +1,41 @@
+{
+  "name": "continuatify",
+  "description": "Browserify transform for continuation.js: A compiler for JavaScript asynchronous Continuation-Passing Style transformation",
+  "version": "1.0.0",
+  "author": "Alexey Kolpakov <alhimik45@gmail.com>",
+  "bugs": "https://github.com/alhimik45/continuatify/issues",
+  "dependencies": {
+    "continuation": "^0.1.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "homepage": "https://github.com/alhimik45/continuatify/",
+  "keywords": [
+    "browserify",
+    "transform",
+    "browserify-transform",
+    "continuation",
+    "asynchronous",
+    "async",
+    "transformation",
+    "monad",
+    "coffeescript",
+    "livescript",
+    "typescript",
+    "cps",
+    "compile",
+    "replace",
+    "client",
+    "browser",
+    "server",
+    "isomorphic"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/alhimik45/continuatify.git",
+  "scripts": {
+    "test": "mocha"
+  }
+}
