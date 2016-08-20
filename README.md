@@ -10,6 +10,7 @@ Install package with NPM and add it to your development dependencies:
 
 ## Usage
 
+For using with gulp there is [gulp-continuation](https://github.com/alhimik45/gulp-continuation) plugin.
 
 ### Command-line
 
